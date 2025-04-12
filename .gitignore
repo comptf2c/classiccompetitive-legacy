@@ -1,3 +1,5 @@
-scripting/include/
-scripting/*.smx
-scripting/spcomp
+addons/sourcemod/scripting/include/
+addons/sourcemod/scripting/*.smx
+addons/sourcemod/scripting/spcomp
+*.zip
+release/

@@ -78,7 +78,7 @@ public void OnPluginStart()
 	HookEvent("teamplay_point_captured", event_Point_Captured_Post, EventHookMode_Post);
 	
 
-	//g_GameConf = LoadGameConfigFile("classiccompetitive");
+	g_GameConf = LoadGameConfigFile("classiccompetitive");
 
 	OnMapEnd();
 
