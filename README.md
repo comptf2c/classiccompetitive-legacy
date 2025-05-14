@@ -1,3 +1,5 @@
+WARNING: Obsolete now. Superseded by https://github.com/comptf2c/comptf2c
+
 Sourcemod plugins for use with a Team Fortress 2 Classic server, for use with tournament mode and class limits.
 
 Ready Up:
